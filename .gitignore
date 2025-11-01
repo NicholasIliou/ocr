@@ -1,0 +1,5 @@
+/venv
+tests
+/images
+__pycache__
+ocr_results.json
